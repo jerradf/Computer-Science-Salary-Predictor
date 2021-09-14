@@ -1,0 +1,33 @@
+(All information was gathered from FRED Economic Data)
+
+-------------------------
+Programmer: 
+
+Employed full time: Median usual weekly nominal earnings (second quartile): Wage and salary workers: Computer programmers occupations: 16 years and over: Women (LEU0254744100A) https://fred.stlouisfed.org/series/LEU0254744100A
+
+Employed full time: Median usual weekly nominal earnings (second quartile): Wage and salary workers: Computer operators occupations: 16 years and over: Men https://fred.stlouisfed.org/series/LEU0254663100A
+
+--------------------------
+Analyst:
+
+Employed full time: Median usual weekly nominal earnings (second quartile): Wage and salary workers: Computer scientists and systems analysts occupations: 16 years and over: Women (2000-2010) https://fred.stlouisfed.org/series/LEU0254744000A
+
+Employed full time: Median usual weekly nominal earnings (second quartile): Wage and salary workers: Computer systems analysts occupations: 16 years and over: Women (2011-2020) https://fred.stlouisfed.org/series/LEU0257860900A
+
+Employed full time: Median usual weekly nominal earnings (second quartile): Wage and salary workers: Computer scientists and systems analysts occupations: 16 years and over: Men (2000-2010) https://fred.stlouisfed.org/series/LEU0254637200A
+
+Employed full time: Median usual weekly nominal earnings (second quartile): Wage and salary workers: Computer systems analysts occupations: 16 years and over: Men (2011-2020) https://fred.stlouisfed.org/series/LEU0257860800A
+
+--------------------------
+Researcher (Specialist):
+
+Employed full time: Median usual weekly nominal earnings (second quartile): Wage and salary workers: Computer support specialists occupations: 16 years and over: Women https://fred.stlouisfed.org/series/LEU0254744300A
+
+Employed full time: Median usual weekly nominal earnings (second quartile): Wage and salary workers: Computer support specialists occupations: 16 years and over: Men https://fred.stlouisfed.org/series/LEU0254637500A
+
+----------------------------
+Manager:
+
+Employed full time: Median usual weekly nominal earnings (second quartile): Wage and salary workers: Computer and information systems managers occupations: 16 years and over: Women https://fred.stlouisfed.org/series/LEU0254739200A
+
+Employed full time: Median usual weekly nominal earnings (second quartile): Wage and salary workers: Computer and information systems managers occupations: 16 years and over: Men https://fred.stlouisfed.org/series/LEU0254632400A
